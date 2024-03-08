@@ -11,3 +11,12 @@ This article summarizes useful and popular flutter packages for those who are ne
   - [GetX](https://pub.dev/packages/get)
   - [flutter_riverpod](https://pub.dev/packages/flutter_riverpod)
   - [provider](https://pub.dev/packages/provider)
+
+If use [flutter_bloc](https://pub.dev/packages/flutter_bloc),you should also use [equatable](https://pub.dev/packages/equatable). [Equatable](https://pub.dev/packages/equatable) use to compare the emitted states from [flutter_bloc](https://pub.dev/packages/flutter_bloc)
+
+**Notification Packages**
+
+  A feaure that use in Most of Applications is Notification Feature. Notification Feature is useful in Social Apps and Apps that need to run in the foreground and background such as File downloaders,Video Players,Audio Players,VPN Apps etc.. The following packages are notification packages
+
+**Local Storage Packages**
+
