@@ -1,7 +1,7 @@
 # Flutter Package Roadmap
 
 In order to learn Flutter comprehensively, we decided to use Roadmap to learn it.
-This article summarizes useful and popular flutter packages for those who are new to Flutter, those who are just starting to learn Flutter and those who research needed packages for our application feature target.When learn the packages,I think that getstart from examples provided by packages.So added the **package examples**
+This article summarizes useful and popular flutter packages for those who are new to Flutter, those who are just starting to learn Flutter and those who research needed packages for our application feature target.When learn the packages,I think that should getstart from examples provided by packages.So added the **package examples**
 
 ## 📚 Contents
 - [State Management Packages](#State-Management-Packages)
@@ -26,7 +26,7 @@ If use [flutter_bloc](https://pub.dev/packages/flutter_bloc),you should also use
 
 # Notification Packages
 
-  A feaure that use in Most of Applications is Notification Feature. Notification Feature is useful in Social Apps and Apps that need to run in the foreground and background such as File downloaders,Video Players,Audio Players,VPN Apps etc.. The following packages are notification packages
+  A feaure that use in Most of Applications is Notification Feature. Notification Feature is useful in Social Apps and Apps that need to run in the foreground and background such as File downloaders,Video Players,Audio Players,Alarm, VPN Apps etc.. The following packages are notification packages
 - [flutter_local_notifications](https://pub.dev/packages/flutter_local_notifications)
     - [example](https://github.com/MaikuB/flutter_local_notifications/tree/master/flutter_local_notifications/example)
 - [awesome_notifications](https://pub.dev/packages/awesome_notifications)
