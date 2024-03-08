@@ -4,10 +4,10 @@ In order to learn Flutter comprehensively, we decided to use Roadmap to learn it
 This article summarizes useful and popular flutter packages for those who are new to Flutter, those who are just starting to learn Flutter and those who research needed packages for our application feature target.
 
 ## 📚 Table of Contents
-- [State Management Packages](#State-Management-Packages)
-- [Notification Packages](#Notification-Packages)
-- [Local Storage Packages](#Local-Storage-Packages)
-- [Other Packages](#Other-Packages)
+- [State Management Packages](**State-Management-Packages**)
+- [Notification Packages](**Notification-Packages**)
+- [Local Storage Packages](**Local-Storage-Packages**)
+- [Other Packages](**Other-Packages**)
 - [Katie's Guides](#katies-guides)
 
 
