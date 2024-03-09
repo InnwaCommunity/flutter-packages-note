@@ -7,7 +7,7 @@ This article summarizes useful and popular flutter packages for those who are ne
 - [State Management Packages](#State-Management-Packages)
 - [Notification Packages](#Notification-Packages)
 - [Local Storage Packages](#Local-Storage-Packages)
-- [UI & UX Packages](#UI-&-UX-Packages)
+- [UIUX Packages](#UIUX-Packages)
 - [Cloud DataBase Packages](#Cloud-DataBase-Packages)
 - [Gaming Packages](#Gaming-Packages)
 
@@ -62,7 +62,7 @@ If you want to store data in secure storage.you can use this.
 - [flutter_secure_storage](https://pub.dev/packages/flutter_secure_storage)
     - [example](https://github.com/mogol/flutter_secure_storage/tree/develop/flutter_secure_storage/example)
 
-# UI & UX Packages
+# UIUX Packages
 UI & UX packages in Flutter empower developers to elevate the overall user experience. The following is UI & UX Packages.
 
 **Calendar,Date and Time UI Packages**
