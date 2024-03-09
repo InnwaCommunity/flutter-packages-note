@@ -10,7 +10,6 @@ This article summarizes useful and popular flutter packages for those who are ne
 - [UI & UX Packages](#UI-&-UX-Packages)
 - [Cloud DataBase Packages](#Cloud-DataBase-Packages)
 - [Gaming Packages](#Gaming-Packages)
-- [UI & UX Packages](#UI-&-UX-Packages)
 
 
 # State Management Packages
