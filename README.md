@@ -6,6 +6,7 @@ This article summarizes useful and popular flutter packages for those who are ne
 ## 📚 Contents
 - [State Management Packages](#State-Management-Packages)
 - [Notification Packages](#Notification-Packages)
+- [Authentication Packages](#Authentication-Packages)
 - [Local Storage Packages](#Local-Storage-Packages)
 - [UIUX Packages](#UIUX-Packages)
 - [Cloud DataBase Packages](#Cloud-DataBase-Packages)
@@ -34,6 +35,17 @@ If use [flutter_bloc](https://pub.dev/packages/flutter_bloc),you should also use
 - [awesome_notifications](https://pub.dev/packages/awesome_notifications)
     - [example](https://github.com/rafaelsetragni/awesome_notifications/tree/master/example)
 
+# Authentication Packages
+- [google_sign_in](https://pub.dev/packages/google_sign_in)
+    - [example](https://github.com/flutter/packages/tree/main/packages/google_sign_in/google_sign_in/example)
+- [firebase_auth](https://pub.dev/packages/firebase_auth)
+    - [example](https://github.com/firebase/flutterfire/tree/master/packages/firebase_auth/firebase_auth/example)
+- [firebase_core](https://pub.dev/packages/firebase_core)
+    - [example](https://github.com/firebase/flutterfire/tree/master/packages/firebase_core/firebase_core/example)
+- [flutter_login_facebook](https://pub.dev/packages/flutter_login_facebook)
+    - [example](https://github.com/Innim/flutter_login_facebook/tree/master/example)
+- [sign_in_with_apple](https://pub.dev/packages/sign_in_with_apple)
+    - [example](https://github.com/aboutyou/dart_packages/tree/master/packages/sign_in_with_apple/sign_in_with_apple/example)
 # Local Storage Packages
 
   Local Storage is very important to store and manage data in one app.Local Storage can be divided two types(SQL and NoSQL).The following is Local Storage Packages.
