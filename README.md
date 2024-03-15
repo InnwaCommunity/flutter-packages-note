@@ -11,6 +11,7 @@ This article summarizes useful and popular flutter packages for those who are ne
 - [UIUX Packages](#UIUX-Packages)
 - [Cloud DataBase Packages](#Cloud-DataBase-Packages)
 - [Gaming Packages](#Gaming-Packages)
+- [Animation Packages](#Animation-Packages)
 
 
 # State Management Packages
@@ -93,6 +94,21 @@ UI & UX packages in Flutter empower developers to elevate the overall user exper
   
 # Gaming Packages
 
+# Animation Packages
+- [animate_do](https://pub.dev/packages/animate_do)
+    - [example](https://github.com/Klerith/animate_do_package/tree/master/example)
+- [super_drag_and_drop](https://pub.dev/packages/super_drag_and_drop)
+    - [example](https://github.com/superlistapp/super_native_extensions/tree/main/super_drag_and_drop/example)
+- [flutter_animate](https://pub.dev/packages/flutter_animate)
+    - [example](https://github.com/gskinner/flutter_animate/tree/main/example)
+- [animations](https://pub.dev/packages/animations)
+    - [example](https://github.com/flutter/packages/tree/main/packages/animations/example)
+- [simple_animations](https://pub.dev/packages/simple_animations)
+    - [example](https://github.com/felixblaschke/simple_animations/tree/main/example)
+- [flutter_staggered_animations](https://pub.dev/packages/flutter_staggered_animations)
+    - [example](https://github.com/The-ring-io/flutter_staggered_animations/tree/master/example)
+- [curved_navigation_bar](https://pub.dev/packages/curved_navigation_bar)
+    - [example](https://github.com/rafalbednarczuk/curved_navigation_bar/tree/master/example)
 
 
 
