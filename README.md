@@ -91,7 +91,21 @@ UI & UX packages in Flutter empower developers to elevate the overall user exper
     - [example](https://github.com/ja2375/add_2_calendar/tree/master/example)
 
 # Cloud DataBase Packages
-  
+- [firebase_core](https://pub.dev/packages/firebase_core)
+    - [example](https://github.com/firebase/flutterfire/tree/master/packages/firebase_core/firebase_core/example)
+- [supabase_flutter](https://pub.dev/packages/supabase_flutter)
+    - [example](https://github.com/supabase/supabase-flutter/tree/main/packages/supabase_flutter/example)
+- [supabase](https://pub.dev/packages/supabase)
+    - [example](https://github.com/supabase/supabase-flutter/tree/main/packages/supabase/example)
+- [amplify_flutter](https://pub.dev/packages/amplify_flutter)
+    - [example](https://github.com/aws-amplify/amplify-flutter/tree/main/packages/amplify/amplify_flutter)
+- [amplify_auth_cognito](https://pub.dev/packages/amplify_auth_cognito)
+    - [example](https://github.com/aws-amplify/amplify-flutter/tree/main/packages/auth/amplify_auth_cognito/example)
+- [amplify_storage_s3](https://pub.dev/packages/amplify_storage_s3)
+    - [example](https://github.com/aws-amplify/amplify-flutter/tree/main/packages/storage/amplify_storage_s3/example)
+- [appwrite](https://pub.dev/packages/appwrite)
+    - [example](https://github.com/appwrite/sdk-for-flutter/tree/main/example)
+
 # Gaming Packages
 
 # Animation Packages
